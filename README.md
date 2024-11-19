@@ -9,24 +9,22 @@ Hello! I'm a passionate Full-Stack Web Developer focused on creating dynamic and
 Here are some of the technologies I work with:
 
 ### Frontend Development
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <div style="display: flex; align-items: center;">
-        <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" style="margin-right: 5px;"/> <strong>HTML5</strong>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; text-align: center;">
+    <div style="flex: 1 0 150px; display: flex; flex-direction: column; align-items: center;">
+        <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" style="margin-bottom: 5px;"/>
+        <strong>Node.js</strong>
     </div>
-    <div style="display: flex; align-items: center;">
-        <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" style="margin-right: 5px;"/> <strong>CSS3</strong>
+    <div style="flex: 1 0 150px; display: flex; flex-direction: column; align-items: center;">
+        <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js" style="margin-bottom: 5px;"/>
+        <strong>Express.js</strong>
     </div>
-    <div style="display: flex; align-items: center;">
-        <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" style="margin-right: 5px;"/> <strong>JavaScript</strong>
+    <div style="flex: 1 0 150px; display: flex; flex-direction: column; align-items: center;">
+        <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" style="margin-bottom: 5px;"/>
+        <strong>MongoDB</strong>
     </div>
-    <div style="display: flex; align-items: center;">
-        <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" style="margin-right: 5px;"/> <strong>React</strong>
-    </div>
-    <div style="display: flex; align-items: center;">
-        <img src="https://img.icons8.com/color/48/000000/nextjs.png" alt="Next.js" style="margin-right: 5px;"/> <strong>Next.js</strong>
-    </div>
-    <div style="display: flex; align-items: center;">
-        <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" style="margin-right: 5px;"/> <strong>TypeScript</strong>
+    <div style="flex: 1 0 150px; display: flex; flex-direction: column; align-items: center;">
+        <img src="https://img.icons8.com/color/48/000000/prisma.png" alt="Prisma" style="margin-bottom: 5px;"/>
+        <strong>Prisma</strong>
     </div>
 </div>
 
