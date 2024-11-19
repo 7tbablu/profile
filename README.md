@@ -1,99 +1,26 @@
-# 👋 Welcome to My GitHub Profile!
-
-## 🌟 About Me
-
-Hello! I'm a passionate Full-Stack Web Developer focused on creating dynamic and responsive web applications. I have experience with various technologies and frameworks, particularly **React** and **Next.js**. My goal is to build seamless user experiences and robust back-end services that enhance the performance and scalability of applications.
-
-## 🛠️ Technologies & Skills
-
-Here are some of the technologies I work with:
-
-### Frontend Development
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; text-align: center;">
-    <div style="flex: 0 0 100px; display: flex; flex-direction: column; align-items: center;">
-        <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" style="margin-bottom: 5px;"/>
-        <strong>HTML5</strong>
-    </div>
-    <div style="flex: 0 0 100px; display: flex; flex-direction: column; align-items: center;">
-        <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" style="margin-bottom: 5px;"/>
-        <strong>CSS3</strong>
-    </div>
-    <div style="flex: 0 0 100px; display: flex; flex-direction: column; align-items: center;">
-        <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" style="margin-bottom: 5px;"/>
-        <strong>JavaScript</strong>
-    </div>
-    <div style="flex: 0 0 100px; display: flex; flex-direction: column; align-items: center;">
-        <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" style="margin-bottom: 5px;"/>
-        <strong>React</strong>
-    </div>
-    <div style="flex: 0 0 100px; display: flex; flex-direction: column; align-items: center;">
-        <img src="https://img.icons8.com/color/48/000000/nextjs.png" alt="Next.js" style="margin-bottom: 5px;"/>
-        <strong>Next.js</strong>
-    </div>
-    <div style="flex: 0 0 100px; display: flex; flex-direction: column; align-items: center;">
-        <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" style="margin-bottom: 5px;"/>
-        <strong>TypeScript</strong>
-    </div>
-</div>
-
-### State Management & Forms
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; text-align: center;">
-    <div style="flex: 0 0 100px; display: flex; flex-direction: column; align-items: center;">
-        <img src="https://img.icons8.com/color/48/000000/redux.png" alt="Zustand" style="margin-bottom: 5px;"/>
-        <p>Zustand</p>
-    </div>
-    <div style="flex: 0 0 100px; display: flex; flex-direction: column; align-items: center;">
-        <img src="https://img.icons8.com/color/48/000000/react.png" alt="React Hook Form" style="margin-bottom: 5px;"/>
-        <strong>React Hook Form</strong>
-    </div>
-    <div style="flex: 0 0 100px; display: flex; flex-direction: column; align-items: center;">
-        <img src="https://img.icons8.com/color/48/000000/motion.png" alt="Framer Motion" style="margin-bottom: 5px;"/>
-        <strong>Framer Motion</strong>
-    </div>
-    <div style="flex: 0 0 100px; display: flex; flex-direction: column; align-items: center;">
-        <img src="https://img.icons8.com/ios/50/000000/checkmark.png" alt="Zod" style="margin-bottom: 5px;"/>
-        <strong>Zod</strong>
-    </div>
-</div>
-
-### Backend Development
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; text-align: center;">
-    <div style="flex: 0 0 100px; display: flex; flex-direction: column; align-items: center;">
-        <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" style="margin-bottom: 5px;"/>
-        <strong>Node.js</strong>
-    </div>
-    <div style="flex: 0 0 100px; display: flex; flex-direction: column; align-items: center;">
-        <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js" style="margin-bottom: 5px;"/>
-        <strong>Express.js</strong>
-    </div>
-    <div style="flex: 0 0 100px; display: flex; flex-direction: column; align-items: center;">
-        <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" style="margin-bottom: 5px;"/>
-        <strong>MongoDB</strong>
-    </div>
-    <div style="flex: 0 0 100px; display: flex; flex-direction: column; align-items: center;">
-        <img src="https://img.icons8.com/color/48/000000/prisma.png" alt="Prisma" style="margin-bottom: 5px;"/>
-        <strong>Prisma</strong>
-    </div>
-</div>
-
-## 🚀 Projects
-
-Here are a few of my projects that showcase my skills:
-
-1. **[Project Name 1](#)**: A brief description of the project, technologies used, and features.
-2. **[Project Name 2](#)**: A brief description of the project, technologies used, and features.
-3. **[Project Name 3](#)**: A brief description of the project, technologies used, and features.
-
-Feel free to check out my repositories for more projects and code samples!
-
-## 📫 Get in Touch
-
-I'm always looking to collaborate on exciting projects or just chat about web development. You can reach me at:
-
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/your-profile)
-- Twitter: [@your_twitter_handle](https://twitter.com/your_twitter_handle)
-
-## 🌈 Let's Connect!
-
-Thank you for visiting my GitHub profile! If you find my work interesting or have any questions, don't hesitate to reach out. I look forward to connecting with fellow developers and exploring new opportunities!
+<h1>Hi 👋, I'm </h1>
+<p>Hello! I'm a passionate Full-Stack Web Developer focused on creating dynamic and responsive web applications. I have experience with various technologies and frameworks, particularly **React** and **Next.js**. My goal is to build seamless user experiences and robust back-end services that enhance the performance and scalability of applications.</p>
+<h2>🚀 Languages and Tools I Use</h2>
+<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="42" height="42" /></a>
+<a target="_blank" href="https://www.chartjs.org/media/logo-title.svg" style="display: inline-block;"><img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="42" height="42" /></a>
+<a target="_blank" href="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
+<h2>⚡️ Where to find me</h2>
+<p><a target="_blank" href="https://twitter.com/https://twitter.com/your_twitter_handle" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
+<a target="_blank" href="https://dev.to/https://twitter.com/your_twitter_handle" style="display: inline-block;"><img src="https://img.shields.io/badge/dev-to?style=for-the-badge&logo=dev-to&logoColor=white&color=black" alt="dev.to" /></a>
+<a target="_blank" href="https://www.facebook.com/https://twitter.com/your_twitter_handle" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
+<a target="_blank" href="https://www.instagram.com/https://twitter.com/your_twitter_handle" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
