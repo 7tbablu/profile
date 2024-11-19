@@ -6,28 +6,27 @@ Hello! I'm a passionate Full-Stack Web Developer with a focus on creating dynami
 
 ## 🛠️ Technologies & Skills
 
-- **Frontend Development:**
-  - React.js
-  - Next.js
-  - HTML5, CSS3, JavaScript
-  - Redux, Context API
+Here are some of the technologies I work with:
 
-- **Backend Development:**
-  - Node.js
-  - Express.js
-  - MongoDB, PostgreSQL
-  - RESTful APIs, GraphQL
+### Frontend Development
+- ![HTML](https://img.icons8.com/color/48/000000/html-5.png) **HTML5**
+- ![CSS](https://img.icons8.com/color/48/000000/css3.png) **CSS3**
+- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) **JavaScript**
+- ![React](https://img.icons8.com/color/48/000000/react-native.png) **React**
+- ![Next.js](https://img.icons8.com/color/48/000000/nextjs.png) **Next.js**
+- ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) **TypeScript**
 
-- **Tools & Platforms:**
-  - Git & GitHub
-  - Docker
-  - CI/CD (Jenkins, GitHub Actions)
-  - AWS, Heroku
+### State Management & Forms
+- ![Zustand](https://img.icons8.com/color/48/000000/redux.png) **Zustand**
+- ![React Hook Form](https://img.icons8.com/color/48/000000/react.png) **React Hook Form**
+- ![Framer Motion](https://img.icons8.com/color/48/000000/motion.png) **Framer Motion**
+- ![Zod](https://img.icons8.com/ios/50/000000/checkmark.png) **Zod**
 
-- **Design:**
-  - Responsive Design
-  - UI/UX Principles
-  - Figma, Adobe XD
+### Backend Development
+- ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) **Node.js**
+- ![Express.js](https://img.icons8.com/color/48/000000/express.png) **Express.js**
+- ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) **MongoDB**
+- ![Prisma](https://img.icons8.com/color/48/000000/prisma.png) **Prisma**
 
 ## 🚀 Projects
 
