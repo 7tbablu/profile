@@ -10,53 +10,69 @@ Here are some of the technologies I work with:
 
 ### Frontend Development
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; text-align: center;">
-    <div style="flex: 1 0 150px; display: flex; flex-direction: column; align-items: center;">
-        <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" style="margin-bottom: 5px;"/>
-        <strong>Node.js</strong>
+    <div style="flex: 0 0 100px; display: flex; flex-direction: column; align-items: center;">
+        <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" style="margin-bottom: 5px;"/>
+        <strong>HTML5</strong>
     </div>
-    <div style="flex: 1 0 150px; display: flex; flex-direction: column; align-items: center;">
-        <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js" style="margin-bottom: 5px;"/>
-        <strong>Express.js</strong>
+    <div style="flex: 0 0 100px; display: flex; flex-direction: column; align-items: center;">
+        <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" style="margin-bottom: 5px;"/>
+        <strong>CSS3</strong>
     </div>
-    <div style="flex: 1 0 150px; display: flex; flex-direction: column; align-items: center;">
-        <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" style="margin-bottom: 5px;"/>
-        <strong>MongoDB</strong>
+    <div style="flex: 0 0 100px; display: flex; flex-direction: column; align-items: center;">
+        <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" style="margin-bottom: 5px;"/>
+        <strong>JavaScript</strong>
     </div>
-    <div style="flex: 1 0 150px; display: flex; flex-direction: column; align-items: center;">
-        <img src="https://img.icons8.com/color/48/000000/prisma.png" alt="Prisma" style="margin-bottom: 5px;"/>
-        <strong>Prisma</strong>
+    <div style="flex: 0 0 100px; display: flex; flex-direction: column; align-items: center;">
+        <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" style="margin-bottom: 5px;"/>
+        <strong>React</strong>
+    </div>
+    <div style="flex: 0 0 100px; display: flex; flex-direction: column; align-items: center;">
+        <img src="https://img.icons8.com/color/48/000000/nextjs.png" alt="Next.js" style="margin-bottom: 5px;"/>
+        <strong>Next.js</strong>
+    </div>
+    <div style="flex: 0 0 100px; display: flex; flex-direction: column; align-items: center;">
+        <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" style="margin-bottom: 5px;"/>
+        <strong>TypeScript</strong>
     </div>
 </div>
 
 ### State Management & Forms
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <div style="display: flex; align-items: center;">
-        <img src="https://img.icons8.com/color/48/000000/redux.png" alt="Zustand" style="margin-right: 5px;"/> <strong>Zustand</strong>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; text-align: center;">
+    <div style="flex: 0 0 100px; display: flex; flex-direction: column; align-items: center;">
+        <img src="https://img.icons8.com/color/48/000000/redux.png" alt="Zustand" style="margin-bottom: 5px;"/>
+        <strong>Zustand</strong>
     </div>
-    <div style="display: flex; align-items: center;">
-        <img src="https://img.icons8.com/color/48/000000/react.png" alt="React Hook Form" style="margin-right: 5px;"/> <strong>React Hook Form</strong>
+    <div style="flex: 0 0 100px; display: flex; flex-direction: column; align-items: center;">
+        <img src="https://img.icons8.com/color/48/000000/react.png" alt="React Hook Form" style="margin-bottom: 5px;"/>
+        <strong>React Hook Form</strong>
     </div>
-    <div style="display: flex; align-items: center;">
-        <img src="https://img.icons8.com/color/48/000000/motion.png" alt="Framer Motion" style="margin-right: 5px;"/> <strong>Framer Motion</strong>
+    <div style="flex: 0 0 100px; display: flex; flex-direction: column; align-items: center;">
+        <img src="https://img.icons8.com/color/48/000000/motion.png" alt="Framer Motion" style="margin-bottom: 5px;"/>
+        <strong>Framer Motion</strong>
     </div>
-    <div style="display: flex; align-items: center;">
-        <img src="https://img.icons8.com/ios/50/000000/checkmark.png" alt="Zod" style="margin-right: 5px;"/> <strong>Zod</strong>
+    <div style="flex: 0 0 100px; display: flex; flex-direction: column; align-items: center;">
+        <img src="https://img.icons8.com/ios/50/000000/checkmark.png" alt="Zod" style="margin-bottom: 5px;"/>
+        <strong>Zod</strong>
     </div>
 </div>
 
 ### Backend Development
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <div style="display: flex; align-items: center;">
-        <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" style="margin-right: 5px;"/> <strong>Node.js</strong>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; text-align: center;">
+    <div style="flex: 0 0 100px; display: flex; flex-direction: column; align-items: center;">
+        <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" style="margin-bottom: 5px;"/>
+        <strong>Node.js</strong>
     </div>
-    <div style="display: flex; align-items: center;">
-        <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js" style="margin-right: 5px;"/> <strong>Express.js</strong>
+    <div style="flex: 0 0 100px; display: flex; flex-direction: column; align-items: center;">
+        <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js" style="margin-bottom: 5px;"/>
+        <strong>Express.js</strong>
     </div>
-    <div style="display: flex; align-items: center;">
-        <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" style="margin-right: 5px;"/> <strong>MongoDB</strong>
+    <div style="flex: 0 0 100px; display: flex; flex-direction: column; align-items: center;">
+        <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" style="margin-bottom: 5px;"/>
+        <strong>MongoDB</strong>
     </div>
-    <div style="display: flex; align-items: center;">
-        <img src="https://img.icons8.com/color/48/000000/prisma.png" alt="Prisma" style="margin-right: 5px;"/> <strong>Prisma</strong>
+    <div style="flex: 0 0 100px; display: flex; flex-direction: column; align-items: center;">
+        <img src="https://img.icons8.com/color/48/000000/prisma.png" alt="Prisma" style="margin-bottom: 5px;"/>
+        <strong>Prisma</strong>
     </div>
 </div>
 
