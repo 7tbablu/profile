@@ -40,7 +40,7 @@ Here are some of the technologies I work with:
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; text-align: center;">
     <div style="flex: 0 0 100px; display: flex; flex-direction: column; align-items: center;">
         <img src="https://img.icons8.com/color/48/000000/redux.png" alt="Zustand" style="margin-bottom: 5px;"/>
-        <strong>Zustand</strong>
+        <p>Zustand</p>
     </div>
     <div style="flex: 0 0 100px; display: flex; flex-direction: column; align-items: center;">
         <img src="https://img.icons8.com/color/48/000000/react.png" alt="React Hook Form" style="margin-bottom: 5px;"/>
